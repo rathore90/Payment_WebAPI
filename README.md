@@ -1,7 +1,4 @@
-<<<<<<< 1f82301f5b8033c873f14832d074f2f2af9334f9
-# Payment_WebAPI
-=======
-# PaymentApp
+# Payment_WebApi
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5.
 
