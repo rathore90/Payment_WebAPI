@@ -1,6 +1,6 @@
 # Payment_WebApi
 
-This project was built with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5, .Net Core
+This project was built with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.5, .Net Core, and the SQl server can be installed, run, and configured by running docker-compose file.
 
 ## Development server
 
